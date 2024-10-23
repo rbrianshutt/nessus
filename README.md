@@ -83,6 +83,7 @@ Installed and configured Nessus Essentials to perform credentialed vulnerability
 <b>Uninstall the deprecated Firefox browser</b>
 <b>Check for and install any updates in Windows.</b>
 <br/>
+
 ![](https://github.com/rbrianshutt/nessus/blob/main/images/vm_windows_update.PNG)
 <br />
 <br />
