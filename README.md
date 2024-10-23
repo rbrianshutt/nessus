@@ -28,7 +28,6 @@ Installed and configured Nessus Essentials to perform credentialed vulnerability
 ![](https://github.com/rbrianshutt/nessus/blob/main/images/basic_network_scan.PNG)
 <br />
 <br />
-
 <b>Create a new scan.  Connect Nessus with host IP address: </b>
 <br/>
 ![](https://github.com/rbrianshutt/nessus/blob/main/images/new_scan_basic_network_scan.PNG)
