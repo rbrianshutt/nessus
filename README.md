@@ -24,6 +24,7 @@ Installed and configured Nessus Essentials to perform credentialed vulnerability
 - <b>Connect with VM</b>
 <br/>
 <b>Set up a basic scan in Nessus Essential</b>
+
 <br/>
  
 ![](https://github.com/rbrianshutt/nessus/blob/main/images/basic_network_scan.PNG)
