@@ -18,9 +18,9 @@ Installed and configured Nessus Essentials to perform credentialed vulnerability
 <h2>Program walk-through:</h2>
 
 
--<b>Installed VMware Workstation Pro</b>
--<b>Download Windows 10 ISO</b>
--<b>Download and Install Nessus Essentials</b>
+- <b>Installed VMware Workstation Pro</b>
+- <b>Download Windows 10 ISO</b>
+- <b>Download and Install Nessus Essentials</b>
 - <b>Connect with VM</b>
 - <b>Set up a basic scan in Nessus Essential</b>
 <br/>
@@ -80,7 +80,7 @@ Installed and configured Nessus Essentials to perform credentialed vulnerability
 <br />
 - <b>Uninstall the deprecated Firefox browser</b>
 - <b>Check for and install any updates in Windows.</b>
-- <br/>
+<br/>
 ![](https://github.com/rbrianshutt/nessus/blob/main/images/vm_windows_update.PNG)
 <br />
 <br />
