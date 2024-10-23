@@ -1,6 +1,6 @@
 <h1>Vulnerability Management with Nessus</h1>
 
-![](https://github.com/rbrianshutt/honeypot_virtual_machine/blob/main/images/honeypot.png)
+![](https://github.com/rbrianshutt/nessus/blob/main/images/NessusEssentials.jpg)
 
 <h2>Description</h2>
 Sample text
@@ -21,32 +21,52 @@ Sample text
 <p align="center">
 Sample text:  <br/>
  
-![](https://github.com/rbrianshutt/honeypot_virtual_machine/blob/main/images/create_virtual_machine.PNG)
+![](https://github.com/rbrianshutt/nessus/blob/main/images/basic_network_scan.PNG)
 <br />
 <br />
 
 Sample text:  <br/>
-![](https://github.com/rbrianshutt/honeypot_virtual_machine/blob/main/images/setup_virtual_machine.PNG)
+![](https://github.com/rbrianshutt/nessus/blob/main/images/new_scan_basic_network_scan.PNG)
 <br />
 <br />
 Sample text:  <br/>
-![](https://github.com/rbrianshutt/honeypot_virtual_machine/blob/main/images/disable_fireware.PNG)
+![](https://github.com/rbrianshutt/nessus/blob/main/images/launch_scan_2.PNG)
 <br />
 <br />
 Sample text:  <br/>
-![](https://github.com/rbrianshutt/honeypot_virtual_machine/blob/main/images/script_security_log_powershell.PNG)
+![](https://github.com/rbrianshutt/nessus/blob/main/images/nessus_first_scan.PNG)
 <br />
 <br />
 Sample text:  <br/>
-![](https://github.com/rbrianshutt/honeypot_virtual_machine/blob/main/images/ipgeolocation.PNG)
+![](https://github.com/rbrianshutt/nessus/blob/main/images/nessuss_configure_credentials.PNG)
 <br />
 <br />
 Sample text:  <br/>
-![](https://github.com/rbrianshutt/honeypot_virtual_machine/blob/main/images/powershell_script_parsing_data.PNG)
+![](https://github.com/rbrianshutt/nessus/blob/main/images/vm_enable_remote_registry.PNG)
 <br />
 <br />
 Sample text:  <br/>
-![](https://github.com/rbrianshutt/honeypot_virtual_machine/blob/main/images/event_viewer.PNG)
+![](https://github.com/rbrianshutt/nessus/blob/main/images/nessus_with_credentials_scan.PNG)
+<br />
+<br />
+Sample text:  <br/>
+![](https://github.com/rbrianshutt/nessus/blob/main/images/nessus_credentials%26oldfirefox.PNG)
+<br />
+<br />
+Sample text:  <br/>
+![](https://github.com/rbrianshutt/nessus/blob/main/images/nessus_credentials_vulnerabilities.PNG)
+<br />
+<br />
+Sample text:  <br/>
+![](https://github.com/rbrianshutt/nessus/blob/main/images/nessus_remediations.PNG)
+<br />
+<br />
+Sample text:  <br/>
+![](https://github.com/rbrianshutt/nessus/blob/main/images/vm_windows_update.PNG)
+<br />
+<br />
+Sample text:  <br/>
+![]([https://github.com/rbrianshutt/nessus/blob/main/images/nessus_remediations.PNG](https://github.com/rbrianshutt/nessus/blob/main/images/nessus.scan_after_updates.PNG))
 </p>
 
 <!--
