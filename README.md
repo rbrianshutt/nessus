@@ -52,7 +52,7 @@ Installed and configured Nessus Essentials to perform credentialed vulnerability
 ![](https://github.com/rbrianshutt/nessus/blob/main/images/nessuss_configure_credentials.PNG)
 <br />
 <br />
-<b>Enable remote registry, set to Automatic</b>   
+<b>Enable remote registry, set to Automatic:</b>   
 <br/>
 ![](https://github.com/rbrianshutt/nessus/blob/main/images/vm_enable_remote_registry.PNG)
 <br />
@@ -69,7 +69,7 @@ Installed and configured Nessus Essentials to perform credentialed vulnerability
 ![](https://github.com/rbrianshutt/nessus/blob/main/images/nessus_credentials%26oldfirefox.PNG)
 <br />
 <br />
-<b>Vulnerabilites were examined in more depth:</b> 
+<b>Examine vulnerabilites:</b> 
 <br/>
 
 ![](https://github.com/rbrianshutt/nessus/blob/main/images/nessus_credentials_vulnerabilities.PNG)
@@ -80,8 +80,8 @@ Installed and configured Nessus Essentials to perform credentialed vulnerability
 ![](https://github.com/rbrianshutt/nessus/blob/main/images/nessus_remediations.PNG)
 <br />
 <br />
-- <b>Uninstall the deprecated Firefox browser</b>
-- <b>Check for and install any updates in Windows.</b>
+<b>Uninstall the deprecated Firefox browser</b>
+<b>Check for and install any updates in Windows.</b>
 <br/>
 ![](https://github.com/rbrianshutt/nessus/blob/main/images/vm_windows_update.PNG)
 <br />
@@ -91,7 +91,7 @@ Installed and configured Nessus Essentials to perform credentialed vulnerability
 
 ![](https://github.com/rbrianshutt/nessus/blob/main/images/nessus.scan_after_updates.PNG)
 
-
+<b>Whenever possible automate updates to remedy and reduce vulnerabilites.</b>
 <!--
  ```diff
 - text in red
