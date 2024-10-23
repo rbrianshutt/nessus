@@ -3,22 +3,19 @@
 ![](https://github.com/rbrianshutt/nessus/blob/main/images/NessusEssentials.jpg)
 
 <h2>Description</h2>
-Sample text
+Installed and configured Nessus Essentials to perform credentialed vulnerability scans against Windows 10 Hosts.  Conducted vulnerability assessments with Nessus and remediated vulnerabilities.
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-
-
-<h2>Environments Used </h2>
-
-- <b>Windows 10</b> (21H2)
-
+- <b>VMware Workstation Pro</b>
+- <b>Windows 10 ISO</b>
+- <b>Nessus Essentials</b> 
+ 
 <h2>Program walk-through:</h2>
 
-<p align="center">
+
 Sample text:  <br/>
  
 ![](https://github.com/rbrianshutt/nessus/blob/main/images/basic_network_scan.PNG)
@@ -67,7 +64,7 @@ Sample text:  <br/>
 <br />
 Sample text:  <br/>
 ![](https://github.com/rbrianshutt/nessus/blob/main/images/nessus.scan_after_updates.PNG)
-</p>
+
 
 <!--
  ```diff
