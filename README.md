@@ -18,11 +18,11 @@ Installed and configured Nessus Essentials to perform credentialed vulnerability
 <h2>Program walk-through:</h2>
 
 
-- <b>Installed VMware Workstation Pro</b>
-- <b>Download Windows 10 ISO</b>
-- <b>Download and Install Nessus Essentials</b>
-- <b>Connect with VM</b>
-- <b>Set up a basic scan in Nessus Essential</b>
+<b>Installed VMware Workstation Pro</b>
+<b>Download Windows 10 ISO</b>
+<b>Download and Install Nessus Essentials</b>
+<b>Connect with VM</b>
+<b>Set up a basic scan in Nessus Essential</b>
 <br/>
  
 ![](https://github.com/rbrianshutt/nessus/blob/main/images/basic_network_scan.PNG)
@@ -58,7 +58,8 @@ Installed and configured Nessus Essentials to perform credentialed vulnerability
 ![](https://github.com/rbrianshutt/nessus/blob/main/images/nessus_with_credentials_scan.PNG)
 <br />
 <br />
-<b>An old version of Firefox was installed.   Performed another scan resulting in many vulnerabilities, particularly more Critical and High vulnerabilities. </b>
+<b>An old version of Firefox was installed.</b>   
+<b>Performed another scan resulting in many vulnerabilities, particularly more Critical and High vulnerabilities. </b>
 <br/>
 ![](https://github.com/rbrianshutt/nessus/blob/main/images/nessus_credentials%26oldfirefox.PNG)
 <br />
