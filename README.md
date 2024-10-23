@@ -66,7 +66,7 @@ Sample text:  <br/>
 <br />
 <br />
 Sample text:  <br/>
-![]([https://github.com/rbrianshutt/nessus/blob/main/images/nessus_remediations.PNG](https://github.com/rbrianshutt/nessus/blob/main/images/nessus.scan_after_updates.PNG))
+![](https://github.com/rbrianshutt/nessus/blob/main/images/nessus.scan_after_updates.PNG)
 </p>
 
 <!--
