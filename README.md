@@ -91,7 +91,7 @@ Installed and configured Nessus Essentials to perform credentialed vulnerability
 
 ![](https://github.com/rbrianshutt/nessus/blob/main/images/nessus.scan_after_updates.PNG)
 
-<b>Whenever possible automate updates to remedy and reduce vulnerabilites.</b>
+<b>Whenever possible automate updates to remediate and reduce vulnerabilites.</b>
 <!--
  ```diff
 - text in red
