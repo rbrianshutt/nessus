@@ -22,8 +22,9 @@ Installed and configured Nessus Essentials to perform credentialed vulnerability
 - <b>Download Windows 10 ISO</b>
 - <b>Download and Install Nessus Essentials</b>
 - <b>Connect with VM</b>
-<b>Set up a basic scan in Nessus Essential</b>
 <br/>
+<b>Set up a basic scan in Nessus Essential</b>
+
  
 ![](https://github.com/rbrianshutt/nessus/blob/main/images/basic_network_scan.PNG)
 <br />
